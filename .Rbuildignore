@@ -11,3 +11,5 @@ revdep
 ^\.github$
 ^pkgdown$
 ^raw-data$
+^.*\.Rproj$
+^\.Rproj\.user$
