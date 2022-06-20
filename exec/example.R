@@ -1,4 +1,4 @@
-#!/path/to/Rscript
+
 library('getopt')
 library('stats')
 #get options, using the spec as defined by the enclosed list.

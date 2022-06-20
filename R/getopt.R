@@ -145,7 +145,7 @@
 #' @export
 #' @examples
 #'
-#' #!/path/to/Rscript
+#'
 #' library('getopt')
 #' # get options, using the spec as defined by the enclosed list.
 #' # we read the options from the default: commandArgs(TRUE).
